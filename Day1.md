@@ -38,4 +38,24 @@
     2- Virtual Box
     3- AWS / Azure, GCP, Cloud Virtual Machine
     4- Vagrant 
-    
+
+## Remotely accessign some server or desktop:
+    1- RDP: Remote Desktop Protocol
+    2- SSH: Secure Shell
+    3- Any Desk and many others.
+
+## What are kernel, bootloader, shell?
+    Application --> Shell --> Kernel --> Hardware
+    Heart of every operating system is Kernel.
+    To interact with kernel we use shell programming 
+    Bootloader is a process, which runs files for starting operating system.
+    GRUB (Grand Unified Bootloader): Program on linux which loads and manages the boot process. 
+
+## Commands to check CPU, hardisk and RAM Usage
+    CPU = top
+    Hardisk = df -h
+    RAM = free -h
+
+## States of Processes: 
+    Running, stopped, Sleeping, terminated, Zombie 
+
